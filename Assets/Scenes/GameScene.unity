@@ -13201,6 +13201,7 @@ Transform:
   m_Children:
   - {fileID: 932995175}
   - {fileID: 251902838}
+<<<<<<< HEAD
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1159696380
@@ -13232,6 +13233,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
+=======
+>>>>>>> parent of 7abb119 (dekita)
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1187802786
@@ -16483,6 +16486,7 @@ Transform:
   - {fileID: 1442264948}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &1995431452 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6249261850073477532, guid: bd0b77609b613244b88625654b39551f, type: 3}
@@ -16607,6 +16611,8 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bd0b77609b613244b88625654b39551f, type: 3}
+=======
+>>>>>>> parent of 7abb119 (dekita)
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
